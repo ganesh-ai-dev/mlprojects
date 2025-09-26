@@ -1,1 +1,1 @@
-wend to end mavhine learning project
+end to end machine learning project
